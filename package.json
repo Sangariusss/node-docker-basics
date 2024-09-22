@@ -1,0 +1,15 @@
+{
+    "name": "node-docker-basics",
+    "version": "1.0.0",
+    "description": "A simple Node.js app that returns Hello World on /hello endpoint",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [],
+    "devDependencies": {
+        "@types/node": "22.5.5"
+    }
+}
